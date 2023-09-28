@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aka3902
+- 👋 Hi, I’m Arpit 
 - 👀 I’m interested in Data Structure and Algorithm  and Artificial Intelligence 
 - 🌱 I’m currently learning Data Structure and Algorithm  and Web devlopment
 - 💞️ I love to learn new things 
